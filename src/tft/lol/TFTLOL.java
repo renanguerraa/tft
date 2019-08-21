@@ -57,70 +57,70 @@ public class TFTLOL {
                     
                     System.out.println("----------");
                     System.out.println("Glacial: Volibear(3)"
-                            + "Robô: Blitzcrank(2)"
-                            + "Selvagem: Warwick(1)"
-                            + "Vastinata: Rek'Sai(2), Cho'Gath(4)"
-                            + "Hextec: Vi(3)");
+                            + "\n Robô: Blitzcrank(2)"
+                            + "\n Selvagem: Warwick(1)"
+                            + "\n Vastinata: Rek'Sai(2), Cho'Gath(4)"
+                            + "\n Hextec: Vi(3)");
                 }
 
                 if(y == 4){
                     
                     System.out.println("----------");
                     System.out.println("Demônio: Brand(4)"
-                            + "Glacial: Lissandra(2), Anivia(5)"
-                            + "Ninja: Kennen(3)"
-                            + "Yordle: Kennen(3)");
+                            + "\n Glacial: Lissandra(2), Anivia(5)"
+                            + "\n Ninja: Kennen(3)"
+                            + "\n Yordle: Kennen(3)");
                 }
 
                 if(y == 5){
                    System.out.println("----------");
                    System.out.println("Glacial: Braum(2)"
-                           + "Nobre: Leona(4)");
+                           + "\n Nobre: Leona(4)");
                 }
 
                 if(y == 6){
                     System.out.println("----------");
                     System.out.println("Nobre: Lucian(2)"
-                            + "Pirata: Graves(1), Gangplank(3), Miss Fortune(5)"
-                            + "Yordle: Tristana(1)"
-                            + "Hextec: Jinx(4)");
+                            + "\n Pirata: Graves(1), Gangplank(3), Miss Fortune(5)"
+                            + "\n Yordle: Tristana(1)"
+                            + "\n Hextec: Jinx(4)");
                 }
 
                 if(y == 7){
                     System.out.println("----------");
                     System.out.println("Glacial: Sejuani(4)"
-                            + "Imperial: Darius(1)"
-                            + "Nobre: Garen(1), Kayle(5)"
-                            + "Fantasma: Morderkaiser(1)"
-                            + "Yordle: Poppy(3)");
+                            + "\n Imperial: Darius(1)"
+                            + "\n Nobre: Garen(1), Kayle(5)"
+                            + "\n Fantasma: Morderkaiser(1)"
+                            + "\n Yordle: Poppy(3)");
                 }
 
                 if(y == 8){
                     System.out.println("----------");
                     System.out.println("Demônio: Varus(2)"
-                            + "Glacial: Ashe(3)"
-                            + "Nobre: Vayne(1)"
-                            + "Fantasma: Kindred(4)");
+                            + "\n Glacial: Ashe(3)"
+                            + "\n Nobre: Vayne(1)"
+                            + "\n Fantasma: Kindred(4)");
                 }
 
                 if(y == 9){
                     System.out.println("----------");
                     System.out.println("Demônio: Elise(1), Swain(5)"
-                            + "Imperial: Swain(5)"
-                            + "Dragão: Shyvana(3)"
-                            + "Selvagem: Nidalee(1), Gnar(4)"
-                            + "Yordle: Gnar(4)"
-                            + "Hextec: Jayce(2)");
+                            + "\n Imperial: Swain(5)"
+                            + "\n Dragão: Shyvana(3)"
+                            + "\n Selvagem: Nidalee(1), Gnar(4)"
+                            + "\n Yordle: Gnar(4)"
+                            + "\n Hextec: Jayce(2)");
                 }
 
                 if(y == 10){
                     System.out.println("----------");
                     System.out.println("Demônio: Morgana(3)"
-                            + "Dragão: Aurelion(4)"
-                            + "Fantasma: Karthus(5)"
-                            + "Selvagem: Ahri(2)"
-                            + "Vastinata: Kassadin(1)"
-                            + "Yordle: Lulu(2), Veigar(3)");
+                            + "\n Dragão: Aurelion(4)"
+                            + "\n Fantasma: Karthus(5)"
+                            + "\n Selvagem: Ahri(2)"
+                            + "\n Vastinata: Kassadin(1)"
+                            + "\n Yordle: Lulu(2), Veigar(3)");
                 }
                 
                 System.out.println("----------"
@@ -132,7 +132,7 @@ public class TFTLOL {
         }
         
         if(x == 2){
-            System.out.println("jaja eu faço");
+            System.out.println("jaja eu faço haha sou o renan no github");
         }
     }
 }
