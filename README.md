@@ -1,2 +1,2 @@
 # tft
-Meu primeiro projeto no github, feito em Java. É sobre informações, como campeões e itens, do novo modo de League of Legends
+My first project on github, made in Java. It's about information, like champions and items, from the new League of Legends mode.
